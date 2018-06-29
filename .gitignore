@@ -2,7 +2,7 @@
 node_modules/*
 
 # .idea
-./idea/
+.idea/
 
 #压缩文件
 *.zip
