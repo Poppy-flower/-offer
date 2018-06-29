@@ -1,9 +1,26 @@
-# node_modules
+# node_modules ignore
 node_modules/*
+*/node_modules
 
-# .idea
+# idea ignore
 .idea/
+*.ipr
+*.iml
+*.iws
 
-#压缩文件
+# package ignore
 *.zip
 *.rar
+*.jar
+*.war
+*.tar
+*.tar.gz
+
+#temp ignore
+*.log
+*.cache
+*.diff
+*.patch
+*.tmp
+
+
