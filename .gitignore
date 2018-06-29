@@ -1,0 +1,9 @@
+# node_modules
+node_modules/*
+
+# .idea
+./idea/
+
+#压缩文件
+*.zip
+*.rar
